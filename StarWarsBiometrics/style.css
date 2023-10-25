@@ -1,0 +1,78 @@
+body {
+  background: url(http://wallpapercave.com/wp/pEeUsp1.jpg);
+  font-family: "Days One";
+  font-size: 14px;
+  line-height: 1.5rem;
+}
+
+h1 {
+  text-align: center;
+  color: #ffff66;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(181, 192, 204);
+  margin-bottom: 2rem;
+}
+
+textarea {
+  display: block;
+  width: 100%;
+  color: rgb(70, 104, 139);
+  font-size: 20px;
+  border: 0.2rem solid #3f7ea8;
+  border-radius: 0.3rem;
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+button {
+  background-color: #2d80b8;
+  color: #fff;
+  font-size: 20px;
+  height: 4rem;
+  border: none;
+  border-radius: 0.3rem;
+  width: 37%;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+input {
+  width: 59%;
+  border: 0.2rem solid #2d80b8;
+  border-radius: 0.3rem;
+  color: rgb(70, 104, 139);
+  padding: 0.5rem;
+  height: 4rem;
+  font-size: 20px;
+  margin-right: 1rem;
+}
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.logo,
+.container {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+  max-height: 400px;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 0;
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+footer {
+  background-color: #2d80b8;
+  max-height: 10px;
+}
